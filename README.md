@@ -110,8 +110,8 @@ Features a clean layout, modern UI, and optimized user experience across all dev
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webwiz&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webwiz&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webwizsharmin&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webwizsharmin&layout=compact&theme=tokyonight)  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=webwizsharmin&theme=tokyo-night)
 
 ---
