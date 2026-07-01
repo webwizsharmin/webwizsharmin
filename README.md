@@ -110,8 +110,11 @@ Features a clean layout, modern UI, and optimized user experience across all dev
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webwizsharmin&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webwizsharmin&layout=compact&theme=tokyonight)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3-blue)
+![HTML5](https://img.shields.io/badge/HTML5-Ready-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue)
+![Git](https://img.shields.io/badge/Git-VersionControl-red)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=webwizsharmin&theme=tokyo-night)
 
 ---
