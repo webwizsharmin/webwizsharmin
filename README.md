@@ -115,6 +115,14 @@ Features a clean layout, modern UI, and optimized user experience across all dev
 ![HTML5](https://img.shields.io/badge/HTML5-Ready-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue)
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=webwizsharmin&theme=tokyo-night)
 
 ---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/webwizsharmin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://portfolio-eta-tawny-32.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-webwizsharmin-black)](https://github.com/webwizshamrin)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:webwizsharmin@gmail.com)
