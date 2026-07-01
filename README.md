@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Banner](./banner.png)
 
-# Hi, I'm Sharmin
+# 👋 Hi, I'm Sharmin
 
 Frontend Developer focused on building modern, responsive, and maintainable web applications.
 
@@ -57,5 +57,44 @@ I enjoy transforming ideas into intuitive user experiences through clean archite
 - React
 - Frontend Architecture
 - Performance Optimization
+
+---
+
+## 📂 Featured Projects
+
+### ClientFlow
+
+A modern CRM‑style client management app built with **Tailwind CLI** and **modular JavaScript**.
+
+Includes CRUD operations, a Kanban board with drag‑and‑drop tasks, dark/light theme switcher, localStorage persistence, and a fully responsive UI.
+
+**Tech Stack:** JavaScript (ES6+), Tailwind CSS (CLI), HTML5, CSS3
+
+🔗 [Live Demo](https://6a40c418d1723ce37d4f4294--incandescent-cobbler-823a8b.netlify.app/)  
+🔗 [Source Code](https://github.com/webwizsharmin/clientflow)
+
+---
+
+### Portfolio
+
+A modern developer portfolio showcasing projects, technical skills, and my development journey.  
+Built with a strong focus on performance, accessibility, and responsive design.
+
+**Tech:** HTML • Tailwind CSS • JavaScript • Vite
+
+🔗 [Live Demo](https://portfolio-eta-tawny-32.vercel.app/)  
+🔗 [Source Code](https://github.com/webwizsharmin/portfolio)
+
+---
+
+### Business Coach Landing Page
+
+A responsive, marketing‑focused landing page designed for a business coach.  
+Features a clean layout, modern UI, and optimized user experience across all devices.
+
+**Tech Stack:** JavaScript, Tailwind CSS (CLI), HTML5, CSS3
+
+🔗 [Live Demo](https://webwizsharmin.github.io/business-coach-landing-page/)  
+🔗 [Source Code](https://github.com/webwizsharmin/business-coach-landing-page)
 
 ---
