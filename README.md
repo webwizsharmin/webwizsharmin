@@ -122,7 +122,7 @@ Features a clean layout, modern UI, and optimized user experience across all dev
 
 ## 🤝 Let's Connect
 
-**🌐 Portfolio:** [PORTFOLIO](https://portfolio-eta-tawny-32.vercel.app/L)  
-**💼 LinkedIn:** [LINKEDIN](https://www.linkedin.com/in/webwizsharmin/)  
-**📧 Email:** [EMAIL](mailto:webwizsharmin@gmail.com)  
+**🌐 Portfolio:** [https://portfolio-eta-tawny-32.vercel.app/](https://portfolio-eta-tawny-32.vercel.app/)  
+**💼 LinkedIn:** [https://www.linkedin.com/in/webwizsharmin/](https://www.linkedin.com/in/webwizsharmin/)  
+**📧 Email:** [webwizsharmin@gmail.com](mailto:webwizsharmin@gmail.com)  
 **💻 GitHub:** [https://github.com/webwizshamrin](https://github.com/webwizsharmin)
