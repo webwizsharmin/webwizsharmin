@@ -80,7 +80,7 @@ Includes CRUD operations, a Kanban board with drag‑and‑drop tasks, dark/ligh
 A modern developer portfolio showcasing projects, technical skills, and my development journey.  
 Built with a strong focus on performance, accessibility, and responsive design.
 
-**Tech:** HTML • Tailwind CSS • JavaScript • Vite
+**Tech Stack:** HTML • Tailwind CSS • JavaScript • Vite
 
 🔗 [Live Demo](https://portfolio-eta-tawny-32.vercel.app/)  
 🔗 [Source Code](https://github.com/webwizsharmin/portfolio)
@@ -96,5 +96,22 @@ Features a clean layout, modern UI, and optimized user experience across all dev
 
 🔗 [Live Demo](https://webwizsharmin.github.io/business-coach-landing-page/)  
 🔗 [Source Code](https://github.com/webwizsharmin/business-coach-landing-page)
+
+---
+
+## 📚 Currently Learning
+
+- React fundamentals & modern patterns
+- API integration for dynamic applications
+- Frontend performance optimization
+- Writing scalable and maintainable frontend architectures
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webwizsharmin&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webwizsharmin&layout=compact&theme=tokyonight)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=webwizsharmin&theme=tokyo-night)
 
 ---
