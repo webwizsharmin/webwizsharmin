@@ -122,7 +122,7 @@ Features a clean layout, modern UI, and optimized user experience across all dev
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/webwizsharmin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://portfolio-eta-tawny-32.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-webwizsharmin-black)](https://github.com/webwizshamrin)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:webwizsharmin@gmail.com)
+**🌐 Portfolio:** [PORTFOLIO](https://portfolio-eta-tawny-32.vercel.app/L)  
+**💼 LinkedIn:** [LINKEDIN](https://www.linkedin.com/in/webwizsharmin/)  
+**📧 Email:** [EMAIL](mailto:webwizsharmin@gmail.com)  
+**💻 GitHub:** [https://github.com/webwizshamrin](https://github.com/webwizsharmin)
