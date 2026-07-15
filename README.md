@@ -111,7 +111,7 @@ Features a clean layout, modern UI, and optimized user experience across all dev
 ## 📊 GitHub Stats
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-Ready-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue)
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
