@@ -116,8 +116,6 @@ Features a clean layout, modern UI, and optimized user experience across all dev
 ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue)
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=webwizsharmin&theme=tokyo-night)
-
 ---
 
 ## 🤝 Let's Connect
