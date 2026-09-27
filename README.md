@@ -19,19 +19,20 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Sharmin
 
-Frontend Developer focused on building modern, responsive, and maintainable web applications.
+Frontend Developer focused on building modern, responsive, and production ready web applications.
 
-I enjoy transforming ideas into intuitive user experiences through clean architecture, thoughtful design, and scalable JavaScript. Currently, I’m expanding my frontend expertise by learning React while continuously improving my problem‑solving and software engineering skills.
+I enjoy transforming ideas into intuitive user experiences through clean architecture, scalable React components, and thoughtful design. Currently, I’m expanding my frontend expertise with React, TypeScript, and Next.js while continuously improving my problem‑solving and software engineering skills.
 
 ---
 
 ## 📌 About Me
 
-- 💻 Frontend Developer passionate about building production‑ready web applications
-- ⚡ Strong foundation in HTML, CSS, JavaScript, Tailwind CSS, and Vite
-- 🧩 Enjoy writing modular, maintainable, and reusable code
-- 📱 Focused on responsive design, accessibility, and performance
-- 🌱 Currently learning React to build scalable modern applications
+- 💻 Frontend Developer passionate about building SaaS style Production ready application with React and Tailwind (Vite)
+- ⚡ Strong foundation in HTML, CSS, JavaScript (ES6+), TailwindCSS, and modern frontend tooling
+- 📊 Experienced in integrating data visualization with Recharts
+- 🧩 Skilled at writing modular, maintainable, and reusable components
+- 📱 Focused on responsive design, accessibility, and performance optimization
+- 🌱 Currently exploring TypeScript, Next.js and Node.js for fullstack capabilities
 - 🎯 Actively working toward remote Frontend Developer opportunities
 
 ---
@@ -80,6 +81,8 @@ Built to demonstrate production-ready React component architecture and scalable 
 
 🔗 [Live Demo](https://clientflow-v2-1sgq.vercel.app/)
 🔗 [Source Code](https://github.com/webwizsharmin/clientflow-v2)
+
+---
 
 ### ClientFlow
 
